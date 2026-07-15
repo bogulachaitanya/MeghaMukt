@@ -1,0 +1,16 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://meghamukt-backend.loca.lt/api/:path*"
+    },
+    {
+      "source": "/outputs/:path*",
+      "destination": "https://meghamukt-backend.loca.lt/outputs/:path*"
+    },
+    {
+      "source": "/uploads/:path*",
+      "destination": "https://meghamukt-backend.loca.lt/uploads/:path*"
+    }
+  ]
+}
