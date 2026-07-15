@@ -1,6 +1,6 @@
 ---
-title: MeghaMukt
-emoji: 🌍
+Title: MeghaMukt
+Emoji: 🌍
 colorFrom: blue
 colorTo: indigo
 sdk: docker
